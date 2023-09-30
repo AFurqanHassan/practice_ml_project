@@ -1,2 +1,2 @@
-## machie learning practice project end to end
+## machine learning practice project end to end
 
